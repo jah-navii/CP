@@ -1,4 +1,4 @@
-# Competitive Programming Contests
+# CP Contests
 
 This repository documents the competitive programming contests I participate in and the solutions I write.
 
