@@ -15,6 +15,8 @@ int main(){
         vector<long long> nums(n);
         for(int i = 0; i < n; i++) cin >> nums[i];
 
+        sort(nums.begin(), nums.end());
+
         for(int num : nums){
             if(num <= c){
                 if(k >= c - num) {
